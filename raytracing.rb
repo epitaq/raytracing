@@ -118,7 +118,7 @@ def draw()
     end
   end
   puts('書き込み')
-  img.write('test11.ppm')
+  img.write('test12.ppm')
 end
 
 
